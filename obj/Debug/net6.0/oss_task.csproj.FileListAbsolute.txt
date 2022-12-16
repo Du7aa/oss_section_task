@@ -1,0 +1,15 @@
+D:\dotnet_projects\oss_task\bin\Debug\net6.0\oss_task.exe
+D:\dotnet_projects\oss_task\bin\Debug\net6.0\oss_task.deps.json
+D:\dotnet_projects\oss_task\bin\Debug\net6.0\oss_task.runtimeconfig.json
+D:\dotnet_projects\oss_task\bin\Debug\net6.0\oss_task.dll
+D:\dotnet_projects\oss_task\bin\Debug\net6.0\oss_task.pdb
+D:\dotnet_projects\oss_task\obj\Debug\net6.0\oss_task.csproj.AssemblyReference.cache
+D:\dotnet_projects\oss_task\obj\Debug\net6.0\oss_task.GeneratedMSBuildEditorConfig.editorconfig
+D:\dotnet_projects\oss_task\obj\Debug\net6.0\oss_task.AssemblyInfoInputs.cache
+D:\dotnet_projects\oss_task\obj\Debug\net6.0\oss_task.AssemblyInfo.cs
+D:\dotnet_projects\oss_task\obj\Debug\net6.0\oss_task.csproj.CoreCompileInputs.cache
+D:\dotnet_projects\oss_task\obj\Debug\net6.0\oss_task.dll
+D:\dotnet_projects\oss_task\obj\Debug\net6.0\refint\oss_task.dll
+D:\dotnet_projects\oss_task\obj\Debug\net6.0\oss_task.pdb
+D:\dotnet_projects\oss_task\obj\Debug\net6.0\oss_task.genruntimeconfig.cache
+D:\dotnet_projects\oss_task\obj\Debug\net6.0\ref\oss_task.dll
